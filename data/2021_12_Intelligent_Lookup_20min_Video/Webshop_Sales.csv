@@ -1,4 +1,4 @@
-﻿TxId;date;count_event;LocationID;city;region;country;OrderValue
+﻿TxId;date;ConcatName;LocationID;city;region;country;OrderValue
 00000102;01.07.2021;Hamburg|Hamburg|Germany;1;Hamburg;Hamburg;Germany;34,18
 00000103;01.07.2021;Hamburg|Hamburg|Germany;1;Hamburg;Hamburg;Germany;16,99
 00000104;01.07.2021;Trier|Rhineland-Palatinate|Germany;2;Trier;Rhineland-Palatinate;Germany;37,02
